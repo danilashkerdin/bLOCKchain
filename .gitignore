@@ -132,3 +132,6 @@ dist
 .history
 contracts/.deps
 contracts/artifacts
+
+device/test.py
+device/.env
